@@ -1,4 +1,4 @@
-- ## Hugo Eckernäs
+## Hugo Eckernäs
 
 ### About Me: 
 - 👋 Hello! I am Hugo Eckernäs
