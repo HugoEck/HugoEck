@@ -1,7 +1,3 @@
-- 👋 Hello! I am Hugo Eckernäs
-- 👀 I'm interested in video games of all kinds.
-- 🏫 Currently a Game Development Student at Malmö University.
-
 - ## Hugo Eckernäs
 
 `Game Developer student at Malmö University`.
@@ -11,7 +7,7 @@
 - 👀 I'm interested in video games of all kinds.
 - 🏫 Currently a Game Development Student at Malmö University.
 
-💼 Check out my portfolio here: 
+💼 Check out my portfolio here: TBA
 
 ---
 
