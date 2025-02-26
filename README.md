@@ -1,4 +1,3 @@
-## Hi there 👋
 - 👋 Hello! I am Hugo Eckernäs
 - 👀 I'm interested in video games of all kinds.
 - 🏫 Currently a Game Development Student at Malmö University.****
