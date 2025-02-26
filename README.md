@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👋 Hello! I am Hugo Eckernäs
+- 👀 I'm interested in video games of all kinds.
+- 🏫 Currently a Game Development Student at Malmö University.****
 
 <!--
 **HugoEck/HugoEck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
